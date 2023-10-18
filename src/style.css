@@ -19,6 +19,7 @@ ul {
 li:hover,
 li:focus {
     background-color: #c7c7c7;
+    cursor: pointer;
 }
 
 li {
