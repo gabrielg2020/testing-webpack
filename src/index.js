@@ -1,5 +1,5 @@
-import _ from "lodash";
 import './style.css';
+import insert from './insert-content.js';
 
 function component() {
 }

@@ -1,6 +1,6 @@
 const insertDiv = document.createElement('div');
 
-function insert(btnContent) {
+export default function insert(btnContent) {
     insertDiv.textContent = `This is tab ${btnContent[btnContent.length]}`;
 
     return {insertDiv};
